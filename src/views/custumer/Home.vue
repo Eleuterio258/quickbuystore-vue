@@ -8,10 +8,10 @@
 </template>
 
 <script>
-import Footer from "../components/Footer.vue";
-import NavBar from "../components/NavBar.vue";
-import WomenProduct from "../components/WomenProduct.vue";
-import MenProduct from "../components/MenProduct.vue";
+import Footer from "../../components/Footer.vue";
+import NavBar from "../../components/NavBar.vue";
+import WomenProduct from "../../components/WomenProduct.vue";
+import MenProduct from "../../components/MenProduct.vue";
 
 export default {
   components: {
